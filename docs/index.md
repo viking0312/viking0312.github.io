@@ -1,3 +1,3 @@
 # Sample document
 
-[create an anchor](#anchors-in-markdown)
+[create an anchor](/docker)
