@@ -14,6 +14,11 @@ docker stats
 docker events
 ```
 
+#### Check docker daemon details
+```
+docker system df
+```
+
 #### Check top processes runnning within a container
 ```
 docker top [container-id]
