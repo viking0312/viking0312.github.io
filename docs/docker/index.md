@@ -9,7 +9,9 @@
 docker run [image-name]:[version]
 ```
 > -d - to run a container in detached mode
+
 > -p [host-port]:[container-mode] - to run a container on specific port
+
 > --restart=[always/no] - to run container by default when docker restarts
 
 #### Check logs for a container
