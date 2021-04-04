@@ -2,13 +2,13 @@
 
 ### Useful commands
 
-> For windows OS, use powersheell to execute below commands.
+> For windows OS, use powershell to execute below commands.
 
 ### Run container
 ```
 docker run [image-name]:[version]
 ```
-> -d - to run the container in detached mode
+> -d - to run a container in detached mode
 > -p [host-port]:[container-mode] - to run a container on specific port
 
 ### Check logs for a container
