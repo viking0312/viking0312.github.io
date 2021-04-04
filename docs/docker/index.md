@@ -4,6 +4,21 @@
 
 > For windows OS, use powershell to execute below commands.
 
+#### Check stats
+```
+docker stats
+```
+
+#### Check events
+```
+docker events
+```
+
+#### Check top processes runnning within a container
+```
+docker top [container-id]
+```
+
 #### Run container
 ```
 docker run [image-name]:[version]
