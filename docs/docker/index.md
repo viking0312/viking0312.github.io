@@ -29,6 +29,10 @@ docker run [image-name]:[version]
 
 > --restart=[always/no] - to run container by default when docker restarts
 
+> -m [memory arg] - to assign memory to a container
+
+> --cpu-quota [5000] - to assign cpu usage, by default it's 100000
+
 #### Check logs for a container
 ```
 docker logs [container-id]
